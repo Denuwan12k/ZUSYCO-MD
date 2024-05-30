@@ -16,18 +16,18 @@ Creator : @darkmakerofc , @mr-nima-x
 */
 
 module.exports = {
-  OWNER_NUMBER: "94715166712",
-  SUDO_NUMBERS : "94715166712,94719574492",
-  OWNER_NAME: "『 𝙼𝚁 𝙽𝙸𝙼𝙰 』",
-  BOT_NAME : "ＺＵＳＹＣＯ",
+  OWNER_NUMBER: "94726357671",
+  SUDO_NUMBERS : "94726357671",
+  OWNER_NAME: "『 🇲 🇷  🇲 🇦 🇱 🇮 🇸 🇭 🇦  』",
+  BOT_NAME : "✺🄳🄴🄽🅄🅆🄰🄽-🄼🄳✺",
   ZUSYCO_FILE : "ZUSYCO-QR",
   LOGOS: {
-    ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
-    WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
+    ALIVE: 'blob:https://web.whatsapp.com/f79fbc5a-5899-46df-a289-02de1f433d5c',
+    WELCOME: 'blob:https://web.whatsapp.com/f79fbc5a-5899-46df-a289-02de1f433d5c',
     GOODBYE: 'https://i.ibb.co/t8hKpcM/GOODBYE-IMAGE-LOWQ.jpg'
   },
   STOP_SEND : {
-        WELCOME_MESSAGE : false,
+        WELCOME_MESSAGE : true,
         GOODBYE_MESSAGE : false
     },
   DESABLE_WELCOME_GOODBYE_JIDS : [],
@@ -35,12 +35,12 @@ module.exports = {
   WORK_TYPE : "public",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴢᴜꜱʏᴄᴏ ᴍᴅ ʙᴏᴛ',
-  STICKER_PACK : '[ ZUSYCO ]',
+  CAPTION : '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Malisha',
+  STICKER_PACK : '[ Mr Malisha ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
-  ANTI_LINK : false,
+  ANTI_LINK : true,
   ANTI_LINK_KICK : false,
   MAX_SIZE : 100,
   MOROCCO_NUMBERS : {
@@ -48,15 +48,15 @@ module.exports = {
         NOT_WORKING : false,
   },
   READ : {
-     ALL_MESSAGES : true,
+     ALL_MESSAGES : false,
      ONLY_COMMANDS : false,
      STATUS : false,
   },
   BOT_OFFLINE : false,
   INBOX_BLOCK : false,
-  AUTO_REACT : false,
-  OWNER_REACT : '🤵‍♂️',
-  AUTO_BGM : false,
+  AUTO_REACT : true,
+  OWNER_REACT : '❤️',
+  AUTO_BGM : true,
   BGM : {
     "chaio" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-caio.mp3",
     "leo" : "https://github.com/MR-NIMA-X/ZUSYCO-DB/raw/main/media/audios/ZUSYCO-leo.mp3",
